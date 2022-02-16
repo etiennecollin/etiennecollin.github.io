@@ -16,8 +16,7 @@ author: Etienne Collin
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - test: "https://etiennecollin.github.io"
   Instagram: "https://instagram.com/etienne.collin/"
 
 # --- Logo --- #
