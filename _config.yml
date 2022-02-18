@@ -61,9 +61,6 @@ author:
   email            : "collin.etienne.contact@gmail.com"
   location         : "Canada"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:etienne.collin.contact@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/etienne_collin"
