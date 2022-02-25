@@ -1,5 +1,7 @@
-# main:
-#   - title: "Projects"
-#     url: /projects/
-#   - title: "About"
-#     url: /about/
+main:
+  - title: "Projects"
+    url: /projects/
+  - title: "GitHub"
+    url: "https://github.com/etiennecollin"
+  - title: "About"
+    url: /about/

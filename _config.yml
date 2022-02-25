@@ -61,37 +61,37 @@ author:
   email            : "collin.etienne.contact@gmail.com"
   location         : "Canada"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/etienne_collin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/etiennecollin/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/etienne.collin"
+    - label: "Email"
+      icon : "fas fa-fw fa-envelope-square"
+      url: "mailto:etienne.collin.contact@gmail.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/etienne-collin-041416215"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://your-website.com"
-    # - label: "GitLab"
-    #   icon: "fab fa-fw fa-gitlab"
-    #   url:
 
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon : "fas fa-fw fa-envelope-square"
-      url: "mailto:etienne.collin.contact@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/etienne_collin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/etiennecollin/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/etienne.collin"
+    - label: "Email"
+      icon : "fas fa-fw fa-envelope-square"
+      url: "mailto:etienne.collin.contact@gmail.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/etienne-collin-041416215"
 
 defaults:
   # _posts
