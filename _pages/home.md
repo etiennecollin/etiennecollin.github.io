@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#1e1e1e"
+#   overlay_color: "#1e1e1e"
   overlay_image: "/assets/images/mm-home-page-feature.jpg"
   actions:
     - label: "About Me"
