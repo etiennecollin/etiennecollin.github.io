@@ -84,7 +84,7 @@ footer:
       icon : "fas fa-fw fa-envelope-square"
       url: "mailto:etienne.collin.contact@gmail.com"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/etienne-collin-041416215"
 
 defaults:
