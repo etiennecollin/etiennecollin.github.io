@@ -68,11 +68,8 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/etienne.collin"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/etienne-collin-041416215"
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://your-website.com"
 
 # Site Footer
 footer:
