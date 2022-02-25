@@ -14,7 +14,7 @@ feature_row:
     alt: "Projects"
     title: "My Projects"
     excerpt: "Here is a list of my projects."
-    url: "/_pages/projects.md"
+    url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
@@ -23,14 +23,14 @@ feature_row:
     excerpt: "Browse through the code of my projects."
     url: "https://github.com/etiennecollin"
     btn_class: "btn--primary"
-    btn_label: "Browse"
+    btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
     alt: "CV"
     title: "CV"
     excerpt: "Looking to employ? Here is my CV."
-    url: "/_pages/about.md"
+    url: "/about/"
     btn_class: "btn--primary"
-    btn_label: "Learn more about me"      
+    btn_label: "Learn more"      
 ---
 
 {% include feature_row %}
