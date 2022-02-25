@@ -56,7 +56,7 @@ plugins:
 # Site Author
 author:
   name             : "Etienne Collin"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_picture_square.jpg"
   bio              : "I am an **amazing** person."
   email            : "collin.etienne.contact@gmail.com"
   location         : "Canada"

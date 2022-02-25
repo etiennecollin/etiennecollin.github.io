@@ -3,8 +3,8 @@ layout: splash
 permalink: /
 hidden: true
 header:
-#   overlay_color: "#5e616c"
-  overlay_image: "/assets/images/profile_picture.jpg"
+  overlay_color: "#252a34"
+  overlay_image: "/assets/images/mm-home-page-feature.jpg"
   actions:
     - label: "About Me"
       url: "/_pages/about.md"
@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/mm-free-feature.png
     alt: "CV"
     title: "CV"
-    excerpt: "Looking to employ? Here is my CV."
+    excerpt: "Get to know me! Looking to employ? There is also my resumé and an email to contact me if you need more information."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
