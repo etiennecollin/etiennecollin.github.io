@@ -3,8 +3,8 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+#   overlay_color: "#5e616c"
+  overlay_image: "/assets/images/profile_picture.jpg"
   actions:
     - label: "About Me"
       url: "/_pages/about.md"
