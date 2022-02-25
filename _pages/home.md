@@ -25,9 +25,9 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "CV"
-    title: "CV"
-    excerpt: "Get to know me! Looking to employ? There is also my resumé and an email to contact me if you need more information."
+    alt: "Get to know me!"
+    title: "Get to know me!"
+    excerpt: "Looking to employ? My resumé is available along with an email to contact me if you need more info."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
