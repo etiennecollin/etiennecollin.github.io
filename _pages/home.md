@@ -7,7 +7,7 @@ header:
   overlay_image: "/assets/images/mm-home-page-feature.jpg"
   actions:
     - label: "About Me"
-      url: "/_pages/about.md"
+      url: "/about/"
 excerpt: "Heyy, welcome to my website!"
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
