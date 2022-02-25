@@ -1,6 +1,10 @@
 main:
   - title: "Projects"
-    url: /projects/
+    sublinks:
+      - title: "Build Your Neural Network"
+        url: "https://etiennecollin.github.io/build-your-nn"
+      - title: "Sudoku Solver Algorithm"
+        url: "https://github.com/etiennecollin/sudoku-solver-algorithm"
   - title: "GitHub"
     url: "https://github.com/etiennecollin"
   - title: "About"
