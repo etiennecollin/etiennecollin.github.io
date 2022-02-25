@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
 #   overlay_color: "#1e1e1e"
-  overlay_image: "/assets/images/home_background.jpg"
+  overlay_image: "/assets/images/home_background_2.jpg"
   actions:
     - label: "About Me"
       url: "/about/"
