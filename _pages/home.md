@@ -21,7 +21,7 @@ feature_row:
     alt: "GitHub"
     title: "My GitHub"
     excerpt: "Browse through the code of my projects."
-    url: "[/docs/layouts/](https://github.com/etiennecollin)"
+    url: "https://github.com/etiennecollin"
     btn_class: "btn--primary"
     btn_label: "Browse"
   - image_path: /assets/images/mm-free-feature.png
@@ -30,7 +30,7 @@ feature_row:
     excerpt: "Looking to employ? Here is my CV."
     url: "/_pages/about.md"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more about me"      
 ---
 
 {% include feature_row %}
