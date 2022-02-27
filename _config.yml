@@ -50,12 +50,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/etienne.collin"
-    - label: "Email"
-      icon : "fas fa-fw fa-envelope-square"
-      url: "mailto:etienne.collin.contact@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/etienne-collin-041416215"
+    - label: "Email"
+      icon : "fas fa-fw fa-envelope-square"
+      url: "mailto:etienne.collin.contact@gmail.com"
 
 atom_feed:
   hide: true
