@@ -43,7 +43,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-    hero__title: I'm Etienne, a passionated computer science student at university.
+    hero__title: I'm Etienne, a passionate computer science student at university.
     hero__description: Checkout my work! I am always looking for new projects and LOVE learning. Contact me if you want to collaborate!
     hero__image: "/images/01.jpg"
 
