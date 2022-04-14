@@ -27,8 +27,8 @@ menu__settings:
 # Author Settings
 author:
     author__name: Etienne Collin
-    author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-    author__avatar: "/images/01-1.jpg"
+    author__bio: I'm a computer science student at --university-- and I adore learning! My interests are vast, but I currently am fascinated by artificial intelligence and more specifically by neural networks. Feel free to explore my projects!
+    author__avatar: "/images/profile_picture_square.jpg"
 
 social:
     - { icon: "ion-logo-github", link: "https://github.com/etiennecollin" }
@@ -43,7 +43,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-    hero__title: I'm Etienne, a passionate computer science student at university.
+    hero__title: I'm Etienne, a passionate computer science student at --university--.
     hero__description: Checkout my work! I am always looking for new projects and LOVE learning. Contact me if you want to collaborate!
     hero__image: "/images/01.jpg"
 
