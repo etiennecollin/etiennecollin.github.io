@@ -18,10 +18,10 @@ menu__settings:
           url: "/about/"
         - title: "Contact me"
           url: "/contact/"
-        - title: "Pages"
-          submenu:
-              - url: "/elements/"
-                title: "Elements"
+        # - title: "Pages"
+        #   submenu:
+        #       - url: "/elements/"
+        #         title: "Elements"
 
 #-------------------------------
 # Author Settings
@@ -103,14 +103,12 @@ footer_menu__settings:
           url: "/about/"
         - title: "Contact me"
           url: "/contact/"
-        - title: "Elements"
-          url: "/elements/"
 
 #-------------------------------
 # Contact Settings
 contact:
-    email: collin.etienne.contact@gmail.com # Add your form_id
-    description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+    email: # Add your form_id
+    description: If you want to collaborate or have questions, don't hesitate to contact me. # Add a description of your form
 
 # NOTE
 # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.

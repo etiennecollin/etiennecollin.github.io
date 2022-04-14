@@ -16,9 +16,9 @@ layout: default
               {% endfor %}
             </div>
           {% endif %}
-  
+
           <h1 class="post-title">{{ page.title | escape }}</h1>
-  
+
           <div class="post-meta">
             <a href="{{site.baseurl}}/about/" class="post-author-link">{{site.data.settings.author.author__name}}</a> –
             <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
@@ -83,7 +83,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col col-12">
-        {% include disqus-comments.html %} 
+        {% include disqus-comments.html %}
       </div>
     </div>
   </div>
