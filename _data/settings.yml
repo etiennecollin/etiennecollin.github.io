@@ -89,12 +89,10 @@ footer_menu__settings:
     menu__items:
         - title: "Home"
           url: "/"
-        - title: "Projects"
-          submenu:
-              - title: "Computer Science"
-                url: "/projects/"
-              - title: "Photography"
-                url: "/photography/"
+        - title: "Computer Science"
+          url: "/projects/"
+        - title: "Photography"
+          url: "/photography/"
         # - title: "Blog"
         #   url: "/blog/"
         - title: "About"
