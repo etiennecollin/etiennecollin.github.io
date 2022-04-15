@@ -49,8 +49,14 @@ hero:
 #-------------------------------
 # Projects Settings
 projects__settings:
-    projects__title: Latest works
-    projects__description: These are my most recent projects. All of them allowed me to learn something new!
+    projects__title: Latest computer science works
+    projects__description: These are my most recent computer science projects. All of them allowed me to learn something new!
+
+#-------------------------------
+# Photography Settings
+photography__settings:
+    photography__title: Latest photography works
+    photography__description: These are my most recent photography projects. All of them allowed me to learn something new!
 
 #-------------------------------
 # Testimonials Section
