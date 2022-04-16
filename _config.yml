@@ -27,6 +27,9 @@ collections:
     projects:
         output: true
         permalink: /project/:slug
+    photography:
+        output: true
+        permalink: /photography/:slug
 
 # Pages Path
 defaults:
@@ -47,6 +50,11 @@ defaults:
     - scope:
           path: ""
           type: "projects"
+      values:
+          layout: "project"
+    - scope:
+          path: ""
+          type: "photography"
       values:
           layout: "project"
 

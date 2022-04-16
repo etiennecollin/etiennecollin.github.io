@@ -1,9 +1,11 @@
 ---
-layout: page
-title: Photography
-permalink: /photography/
-image: #'/images/01-2.jpg'
+title: Test Photography Project
+date: 2022-04-16 08:01:35 +0300
+subtitle: test
+image: "/images/project-bynn.jpg"
 ---
+
+This is a photography post.
 
 <div class="gallery-box">
   <div class="gallery">
