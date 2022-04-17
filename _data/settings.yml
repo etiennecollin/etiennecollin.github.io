@@ -14,7 +14,7 @@ menu__settings:
           url: "/"
         - title: "Projects"
           submenu:
-              - title: "Computer Science"
+              - title: "CS Projects"
                 url: "/projects/"
               - title: "Photography"
                 url: "/photography/"
@@ -95,7 +95,7 @@ footer_menu__settings:
     menu__items:
         - title: "Home"
           url: "/"
-        - title: "Computer Science"
+        - title: "CS Projects"
           url: "/projects/"
         - title: "Photography"
           url: "/photography/"
@@ -109,7 +109,7 @@ footer_menu__settings:
 #-------------------------------
 # Contact Settings
 contact:
-    email: # Add your form_id
+    email: collin.etienne.contact@gmail.com # Add your email address or form_id if you use FormSpree version of the contact form in /_pages/contact.html
     description: If you want to collaborate or have questions, don't hesitate to contact me. # Add a description of your form
 
 #-------------------------------
