@@ -29,10 +29,18 @@
 
   &--small {
     padding: 20px 24px;
+
+	&:hover {
+		background: var(--button-background-hover);
+	  }
   }
 
   &--big {
     display: block;
     width: 100%;
+
+	&:hover {
+		background: var(--button-background-hover);
+	  }
   }
 }
