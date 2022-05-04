@@ -3,7 +3,7 @@
 # Site Settings
 title: Etienne Collin
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Welcome to Etienne Collin's portfolio.
+description: Welcome to my portfolio.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 #-------------------------------

@@ -2,7 +2,7 @@
 #-------------------------------
 # General Site Settings
 # baseurl: "" # Comment-out if website lives at "example.com". Else, the subpath of your site, e.g. /blog
-url: "https://etiennecollin.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://etiennecollin.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Build Settings

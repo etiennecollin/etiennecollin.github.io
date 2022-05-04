@@ -2,31 +2,16 @@
 layout: page
 title: About
 permalink: /about/
-image: "/images/100.jpg"
+# image: "/images/100.jpg"
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Hey!
+My name is Etienne, I'm a computer science student fascinated by artificial intelligence, but I'm also a photographer!
+I have realized many projects for multiple clients throughout the years and I am still open for business.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+Whether you are interested im my [computer science projects](https://etiennecollin.com/projects) or my [photography projects](https://etiennecollin.com/photography), do not hesitate to contact me!
+I am open to collaborating on projects with others it will be my pleasure, if that's the case, to help you make your vision a reality in terms of photography.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/100.jpg" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+<div style="text-align:center">
+	<button class="button button--small" onclick="location.href='https://etiennecollin.com/contact';" type="button">Contact me!</button>
 </div>
-
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-![Sea]({{site.baseurl}}/images/100.jpg)
-_Photo by [Alyssa Strohmann](https://unsplash.com/photos/2r2RUsEU1Aw) on [Unsplash](https://unsplash.com/)_
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
