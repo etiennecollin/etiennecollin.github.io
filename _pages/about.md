@@ -13,5 +13,5 @@ Whether you are interested im my [computer science projects](https://etiennecoll
 I am open to collaborating on projects with others it will be my pleasure, if that's the case, to help you make your vision a reality in terms of photography.
 
 <div style="text-align:center">
-	<button class="button button--small" onclick="location.href='https://etiennecollin.com/contact';" type="button">Contact me!</button>
+	<button class="button button--small" onclick="location.href='https://etiennecollin.com/contact/';" type="button">Contact me!</button>
 </div>
