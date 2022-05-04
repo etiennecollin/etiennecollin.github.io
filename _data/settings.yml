@@ -49,18 +49,18 @@ hero:
 #-------------------------------
 # Projects Settings
 projects__settings:
-    projects__title: Latest computer science works
-    projects__description: These are my most recent computer science projects. All of them allowed me to learn something new!
+    projects__title: Latest computer science projects
+    projects__description:
 
 #-------------------------------
 # Photography Settings
 photography__settings:
-    photography__title: Latest photography works
-    photography__description: These are my most recent photography projects. All of them allowed me to learn something new!
+    photography__title: Latest photography projects
+    photography__description:
 
 #-------------------------------
 # Testimonials Section
-testimonial__title: What collaborators and clients say
+testimonial__title: What collaborators say
 testimonial__description:
 
 testimonial__items:
