@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-# image: "/images/100.jpg"
+image:
 ---
 
 Hey!
