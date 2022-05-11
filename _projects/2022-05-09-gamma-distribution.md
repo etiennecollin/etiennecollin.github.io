@@ -27,6 +27,6 @@ Atonement is nigh, [repent](/assets/The_gamma_distribution.pdf).
 > <cite>- John 14:8</cite>
 
 <div style="text-align:center">
-	<button class="button button--small" onclick="location.href='/assets/The_gamma_distribution.pdf';" type="button">Obtain Your Copy of the Bible</button>
-	<button class="button button--small" onclick="location.href='https://github.com/etiennecollin/gamma-distribution';" type="button">Visit the Bible on GitHub</button>
+	<button class="button button--small" onclick="window.open('/assets/The_gamma_distribution.pdf','_blank')" type="button">Obtain Your Copy of the Bible</button>
+	<button class="button button--small" onclick="window.open('https://github.com/etiennecollin/gamma-distribution','_blank')" type="button">Visit the Bible on GitHub</button>
 </div>
