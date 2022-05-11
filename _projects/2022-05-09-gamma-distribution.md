@@ -1,12 +1,11 @@
 ---
 title: The Gamma Distribution
-date: 2022-05-09
 subtitle: The Bible
+description: This is a paper outlining the various properties and applications of the gamma distribution.
 license: CC-BY-4.0
+date: 2022-05-09
 image: /images/project_gamma_distribution.jpg
 ---
-
-**[This](/assets/The_gamma_distribution.pdf) is a paper outlining the various properties and applications of the gamma distribution.**
 
 The Gospel hath been reforged in the sanctified forges of $$\LaTeX$$.
 
