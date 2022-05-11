@@ -27,4 +27,7 @@ Atonement is nigh, [repent](/assets/The_gamma_distribution.pdf).
 
 <div style="text-align:center">
 	<button class="button button--small" onclick="location.href='/assets/The_gamma_distribution.pdf';" type="button">Obtain Your Copy of the Bible</button>
+	<button class="button button--small" onclick="location.href='https://github.com/etiennecollin/gamma-distribution';" type="button">Visit the Bible on GitHub</button>
 </div>
+
+Project under a CC-BY-4.0 license
