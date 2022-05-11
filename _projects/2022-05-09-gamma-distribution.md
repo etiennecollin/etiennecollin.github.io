@@ -2,7 +2,7 @@
 title: The Gamma Distribution
 date: 2022-05-09
 subtitle: The Bible
-description: CC-BY-4.0 license
+license: CC-BY-4.0
 image: /images/project_gamma_distribution.jpg
 ---
 
