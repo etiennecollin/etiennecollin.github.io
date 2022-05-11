@@ -14,10 +14,12 @@ menu__settings:
           url: "/"
         - title: "Projects"
           submenu:
-              - title: "CS Projects"
-                url: "/projects/"
+              - title: "CS"
+                url: "/cs/"
               - title: "Photography"
                 url: "/photography/"
+              - title: "Other"
+                url: "/projects/"
         # - title: "Blog"
         #   url: "/blog/"
         - title: "About"
@@ -47,16 +49,22 @@ hero:
     hero__image: "/images/profile_picture_square.jpg"
 
 #-------------------------------
-# Projects Settings
-projects__settings:
-    projects__title: Latest computer science projects
-    projects__description:
+# CS Settings
+cs__settings:
+    cs__title: Latest computer science projects
+    cs__description:
 
 #-------------------------------
 # Photography Settings
 photography__settings:
     photography__title: Latest photography projects
     photography__description:
+
+#-------------------------------
+# Projects Settings
+projects__settings:
+    projects__title: Other projects
+    projects__description:
 
 #-------------------------------
 # Testimonials Section
@@ -101,9 +109,11 @@ footer_menu__settings:
         - title: "Home"
           url: "/"
         - title: "CS Projects"
-          url: "/projects/"
-        - title: "Photography"
+          url: "/cs/"
+        - title: "Photography Projects"
           url: "/photography/"
+        - title: "Other Projects"
+          url: "/projects/"
         # - title: "Blog"
         #   url: "/blog/"
         - title: "About"
