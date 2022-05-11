@@ -1,17 +1,22 @@
 A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.
 
-***
+---
 
 ## Headings by default:
 
 # H1 Default styles for headings
+
 ## H2 Default styles for headings
+
 ### H3 Default styles for headings
+
 #### H4 Default styles for headings
+
 ##### H5 Default styles for headings
+
 ###### H6 Default styles for headings
 
-***
+---
 
 ## Lists
 
@@ -23,17 +28,17 @@ A paragraph looks like this — Globally incubate standards compliant channels b
 4. Jean shorts shaman listicle pickled portland.
 5. Salvia mumblecore brunch iPhone migas.
 
-***
+---
 
 ### Unordered list example:
 
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
+-   Bitters semiotics vice thundercats synth.
+-   Literally cred narwhal bitters wayfarers.
+-   Kale chips chartreuse paleo tbh street art marfa.
+-   Mlkshk polaroid sriracha brooklyn.
+-   Pug you probably haven't heard of them air plant man bun.
 
-***
+---
 
 ## Table
 
@@ -49,7 +54,7 @@ A paragraph looks like this — Globally incubate standards compliant channels b
   </table>
 </div>
 
-***
+---
 
 ## Quotes
 
@@ -59,78 +64,76 @@ A paragraph looks like this — Globally incubate standards compliant channels b
 >
 > <cite>– George Bernard Shaw</cite>
 
-***
-
-
+---
 
 ## Syntax Highlighter
 
 {% highlight css %}
 body {
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  width: 100vw;
-  background-color: #1c2021;
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+width: 100vw;
+background-color: #1c2021;
 }
 
 li {
-  width: 200px;
-  min-height: 250px;
-  border: 1px solid #000;
-  display: inline-block;
-  vertical-align: top;
-  margin: 5px;
+width: 200px;
+min-height: 250px;
+border: 1px solid #000;
+display: inline-block;
+vertical-align: top;
+margin: 5px;
 }
 {% endhighlight %}
 
 {% highlight js %}
-  $('.top').click(function () {
+$('.top').click(function () {
     $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
   });
   $(window).scroll(function () {
     if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
+$('.top').addClass("top-active");
+} else {
+$('.top').removeClass("top-active");
+};
+});
 {% endhighlight %}
 
-***
+---
 
 ## Images
 
-![Beach]({{site.baseurl}}/images/12-1.jpg#wide)
-*Photo by [Alexandra Gorn](https://unsplash.com/photos/1mPkRa-qM_U) on [Unsplash](https://unsplash.com/)*
+![Beach]({{site.baseurl}}/images/100.jpg#wide)
+_Photo by [Alexandra Gorn](https://unsplash.com/photos/1mPkRa-qM_U) on [Unsplash](https://unsplash.com/)_
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/101.jpg" loading="lazy">
-    <img src="/images/102.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-    <img src="/images/104.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
+    <img src="/images/100.jpg" loading="lazy">
+    <img src="/images/100.jpg" loading="lazy">
+    <img src="/images/100.jpg" loading="lazy">
+    <img src="/images/100.jpg" loading="lazy">
+    <img src="/images/100.jpg" loading="lazy">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-![Sea]({{site.baseurl}}/images/18.jpg)
-*Photo by [Spacejoy](https://unsplash.com/photos/Nq1OU1w37bU) on [Unsplash](https://unsplash.com/)*
+![Sea]({{site.baseurl}}/images/100.jpg)
+_Photo by [Spacejoy](https://unsplash.com/photos/Nq1OU1w37bU) on [Unsplash](https://unsplash.com/)_
 
-***
+---
 
 ## Youtube Embed
 
 <p><iframe src="https://www.youtube.com/embed/hRXd0MMsixI" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
-***
+---
 
 ## Vimeo Embed
 
 <p><iframe src="https://player.vimeo.com/video/147264547?title=0&byline=0" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
-***
+---
