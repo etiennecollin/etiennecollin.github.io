@@ -31,7 +31,7 @@ menu__settings:
 # Author Settings
 author:
     author__name: Etienne Collin
-    author__bio: I'm a computer science student at --university-- and I adore learning! My interests are vast, but I currently am fascinated by artificial intelligence and more specifically by neural networks. Feel free to explore my projects!
+    author__bio: I'm a computer science student and Schulich Leader at Université de Montréal. I adore learning; my interests are vast, but I am currently fascinated by artificial intelligence and, more specifically, by neural networks. Feel free to explore my projects!
     author__avatar: "/images/profile_picture_square.jpg"
 
 social:
@@ -44,7 +44,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-    hero__title: I'm Etienne, a passionate computer science student at --university--.
+    hero__title: I'm Etienne, a Computer Science Student and Schulich Leader at Université de Montréal.
     hero__description: Checkout my work! I am always looking for new projects and LOVE learning. Contact me if you want to collaborate!
     hero__image: "/images/profile_picture_square.jpg"
 
