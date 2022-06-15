@@ -46,7 +46,7 @@ social:
 # Hero Settings
 hero:
     hero__title: I'm Etienne, a Computer Science Student and Schulich Leader at Université de Montréal.
-    hero__description: Checkout my work! I am always looking for new projects and LOVE learning. Contact me if you want to collaborate!
+    hero__description: Checkout my work! I am always looking for new projects and I LOVE learning. Contact me if you want to collaborate!
     hero__image: "/images/profile_picture_square.jpg"
 
 #-------------------------------
