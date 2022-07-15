@@ -1,5 +1,5 @@
 ---
-title: UL Psychology Graduation Dance
+title: UL Psychology Grad Dance
 subtitle: with Université Laval
 description:
 license: CC BY-NC-SA 4.0
