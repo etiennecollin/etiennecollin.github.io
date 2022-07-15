@@ -11,9 +11,9 @@ image: "/images/2022-ul-psy-grad/02.jpg"
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/2022-ul-psy-grad/01.jpg">
-    <img src="/images/2022-ul-psy-grad/03.jpg">
-	<img src="/images/2022-ul-psy-grad/04.jpg">
+    <img src="/images/2022-ul-psy-grad/01.jpg" loading="lazy">
+    <img src="/images/2022-ul-psy-grad/03.jpg" loading="lazy">
+	<img src="/images/2022-ul-psy-grad/04.jpg" loading="lazy">
   </div>
 </div>
 
