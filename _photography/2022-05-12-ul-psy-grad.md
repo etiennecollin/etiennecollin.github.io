@@ -17,9 +17,9 @@ image: "/images/2022-ul-psy-grad/02.jpg"
 
 ![02]({{site.baseurl}}/images/2022-ul-psy-grad/02.jpg)
 
-![10]({{site.baseurl}}/images/2022-ul-psy-grad/06.jpg)
+![06]({{site.baseurl}}/images/2022-ul-psy-grad/06.jpg)
 
-![10]({{site.baseurl}}/images/2022-ul-psy-grad/08.jpg)
+![08]({{site.baseurl}}/images/2022-ul-psy-grad/08.jpg)
 
 <div class="gallery-box">
   <div class="gallery">
@@ -29,11 +29,11 @@ image: "/images/2022-ul-psy-grad/02.jpg"
   </div>
 </div>
 
-![06]({{site.baseurl}}/images/2022-ul-psy-grad/10.jpg)
+![10]({{site.baseurl}}/images/2022-ul-psy-grad/10.jpg)
 
-![10]({{site.baseurl}}/images/2022-ul-psy-grad/12.jpg)
+![12]({{site.baseurl}}/images/2022-ul-psy-grad/12.jpg)
 
-![08]({{site.baseurl}}/images/2022-ul-psy-grad/15.jpg)
+![5]({{site.baseurl}}/images/2022-ul-psy-grad/15.jpg)
 
 <div class="gallery-box">
   <div class="gallery">
