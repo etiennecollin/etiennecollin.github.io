@@ -7,8 +7,6 @@ date: 2022-05-12
 image: "/images/2022-ul-psy-grad/02.jpg"
 ---
 
-![15]({{site.baseurl}}/images/2022-ul-psy-grad/15.jpg)
-
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/2022-ul-psy-grad/01.jpg" loading="lazy">
@@ -41,7 +39,7 @@ image: "/images/2022-ul-psy-grad/02.jpg"
   <div class="gallery">
     <img src="/images/2022-ul-psy-grad/12.jpg" loading="lazy">
     <img src="/images/2022-ul-psy-grad/13.jpg" loading="lazy">
-    <img src="/images/2022-ul-psy-grad/16.jpg" loading="lazy">
+    <img src="/images/2022-ul-psy-grad/15.jpg" loading="lazy">
   </div>
   <em>Gallery / <a href="https://instagram.com/etienne.collin/" target="_blank">Instagram</a></em>
 </div>
