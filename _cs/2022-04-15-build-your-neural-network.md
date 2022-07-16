@@ -14,6 +14,6 @@ This project started with the idea to introduce neural networks, artificial inte
 By following this tutorial, you will learn how to program an image detection neural network that detects different objects and counts them. Of course, with little tweaks, one could do many other things with the model. Feel free to fork the project and share your own neural network.
 
 <div style="text-align:center">
-	<button class="button button--small" onclick="window.open('https://etiennecollin.com/build-your-nn','_blank')" type="button">Visit the BYNN Tutorial</button>
-	<button class="button button--small" onclick="window.open('https://github.com/etiennecollin/build-your-nn','_blank')" type="button">Visit the BYNN GitHub Repository</button>
+	<button class="button button--small" onclick="window.open('https://etiennecollin.com/bynn','_blank')" type="button">Visit the BYNN Tutorial</button>
+	<button class="button button--small" onclick="window.open('https://github.com/etiennecollin/bynn','_blank')" type="button">Visit the BYNN GitHub Repository</button>
 </div>
