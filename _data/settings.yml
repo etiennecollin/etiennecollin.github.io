@@ -32,7 +32,7 @@ menu__settings:
 author:
     author__name: Etienne Collin
     author__bio: I'm a computer science student and Schulich Leader at Université de Montréal. I adore learning; my interests are vast, but I am currently fascinated by artificial intelligence and, more specifically, by neural networks. Feel free to explore my projects!
-    author__avatar: "/images/profile_picture_square.jpg"
+    author__avatar: "/assets/images/profile_picture_square.jpg"
 
 social:
     - { icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/etiennecollin" }
@@ -47,7 +47,7 @@ social:
 hero:
     hero__title: Computer Science Student & Schulich Leader at Université de Montréal
     hero__description: Checkout my work! I'm always looking for new projects and I LOVE learning. Contact me if you want to collaborate!
-    hero__image: "/images/profile_picture_square.jpg"
+    hero__image: "/assets/images/profile_picture_square.jpg"
 
 #-------------------------------
 # CS Settings
@@ -74,12 +74,12 @@ testimonial__description:
 
 testimonial__items:
     - name: "Harmonia"
-      image: "/images/testimonials_harmonia.jpg"
+      image: "/assets/images/testimonials_harmonia.jpg"
       designation: "Funeral Event Services"
       link:
       content: "We have worked with Mr. Etienne Collin to create a photography bank that would be used to promote our services on social media. Having worked with him through various circumstances, we have noticed in him an extraordinary maturity. We appreciated his punctuality, his ability to easily communicate and his benevolence. He perfectly masters photography, a field he is passionate about. His general culture is a quality that will facilitate his adaptation to any environment. Mr. Collin has handled photography sessions with our employees with a master's hand. He is motivated and inspiring; we look forward to seeing him succeed throughout his career."
     - name: "Pascale Rivard"
-      image: "/images/testimonials_pascale_rivard.jpg"
+      image: "/assets/images/testimonials_pascale_rivard.jpg"
       designation: "Violin Teacher at Cégep Sainte-Foy"
       link:
       content: "Working with Etienne was a pleasure! He is attentive, very interested in the projects proposed, creative and realistic. From the beginning, he was very professional and he made sure to have the right equipment to produce what we wanted. During the shoot, he was discreet and knew how to be forgotten. For us, this was essential since our young musicians should not be disturbed during the musical performance. Etienne puts his heart and soul into his craft and he exceeded our expectations! He rigorously respected his deadlines which, for me, is the pledge to great professionalism. His creative editing and grading was able to reflect the essence of our project."
