@@ -2,7 +2,7 @@
 title: Build Your Neural Network
 subtitle: BYNN
 description:
-license: MIT
+license: GPL-3.0
 date: 2022-04-15
 image: "/assets//images/cs_bynn_large.jpg"
 ---
