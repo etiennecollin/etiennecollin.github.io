@@ -9,35 +9,38 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 #-------------------------------
 # Navigation Settings
 menu__settings:
-    menu__items:
-        - title: "Home"
-          url: "/"
-        - title: "Projects"
-          submenu:
-              - title: "CS"
-                url: "/cs/"
-              - title: "Photography"
-                url: "/photography/"
-              - title: "Other"
-                url: "/projects/"
-        # - title: "Blog"
-        #   url: "/blog/"
-        - title: "About"
-          url: "/about/"
-        - title: "Contact me"
-          url: "/contact/"
+  menu__items:
+    - title: "Home"
+      url: "/"
+    - title: "Projects"
+      submenu:
+        - title: "CS"
+          url: "/cs/"
+        - title: "Photography"
+          url: "/photography/"
+        - title: "Other"
+          url: "/projects/"
+    # - title: "Blog"
+    #   url: "/blog/"
+    - title: "About"
+      url: "/about/"
+    - title: "Contact me"
+      url: "/contact/"
 
 #-------------------------------
 # Author Settings
 author:
-    author__name: Etienne Collin
-    author__bio: I'm a computer science student and Schulich Leader at Université de Montréal. I adore learning; my interests are vast, but I am currently fascinated by artificial intelligence and, more specifically, by neural networks. Feel free to explore my projects!
-    author__avatar: "/assets/images/profile_picture_square.jpg"
+  author__name: Etienne Collin
+  author__bio: I'm a computer science student and Schulich Leader at Université de Montréal. I adore learning; my interests are vast, but I am currently fascinated by artificial intelligence and, more specifically, by neural networks. Feel free to explore my projects!
+  author__avatar: "/assets/images/profile_picture_square.jpg"
 
 social:
-    - { icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/etiennecollin" }
-    - { icon: "ion-logo-github", link: "https://github.com/etiennecollin" }
-    - { icon: "ion-logo-instagram", link: "https://instagram.com/etienne.collin" }
+  - {
+      icon: "ion-logo-linkedin",
+      link: "https://www.linkedin.com/in/etiennecollin",
+    }
+  - { icon: "ion-logo-github", link: "https://github.com/etiennecollin" }
+  - { icon: "ion-logo-instagram", link: "https://instagram.com/etienne.collin" }
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -45,27 +48,27 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-    hero__title: Computer Science Student & Schulich Leader at Université de Montréal
-    hero__description: Checkout my work! I'm always looking for new projects and I LOVE learning. Contact me if you want to collaborate!
-    hero__image: "/assets/images/profile_picture_square.jpg"
+  hero__title: Computer Science Student & Schulich Leader at Université de Montréal
+  hero__description: Checkout my work! I'm always looking for new projects and I love learning. Contact me if you want to collaborate!
+  hero__image: "/assets/images/profile_picture_square.jpg"
 
 #-------------------------------
 # CS Settings
 cs__settings:
-    cs__title: Latest CS projects
-    cs__description:
+  cs__title: Latest CS projects
+  cs__description:
 
 #-------------------------------
 # Photography Settings
 photography__settings:
-    photography__title: Latest photography projects
-    photography__description:
+  photography__title: Latest photography projects
+  photography__description:
 
 #-------------------------------
 # Projects Settings
 projects__settings:
-    projects__title: Other projects
-    projects__description:
+  projects__title: Other projects
+  projects__description:
 
 #-------------------------------
 # Testimonials Section
@@ -73,27 +76,27 @@ testimonial__title: What collaborators say
 testimonial__description:
 
 testimonial__items:
-    - name: "Simon Painchaud"
-      image: "assets/images/testimonials_simon_painchaud.jpg"
-      designation: "EduWise Founder | Tutoring services"
-      link: "https://www.eduwisetutor.com/"
-      content: "Last July, I requested the photography, videography and editing services of Etienne to produce a marketing campaign for my startup. The experience was most rewarding with him: Etienne took the time to guide us, advise us and concretely explained to us how we could turn our broad ideas into a concrete product of which we are proud. His approach, sprinkled with humour and professionalism, has convinced me to want to work with him again on future projects!"
-    - name: "Harmonia"
-      image: "/assets/images/testimonials_harmonia.jpg"
-      designation: "Funeral Event Services"
-      link: "https://harmonia.ca/"
-      content: "We have worked with Mr. Etienne Collin to create a photography bank that would be used to promote our services on social media. Having worked with him through various circumstances, we have noticed in him an extraordinary maturity. We appreciated his punctuality, his ability to easily communicate and his benevolence. He perfectly masters photography, a field he is passionate about. His general culture is a quality that will facilitate his adaptation to any environment. Mr. Collin has handled photography sessions with our employees with a master's hand. He is motivated and inspiring; we look forward to seeing him succeed throughout his career."
-    - name: "Pascale Rivard"
-      image: "/assets/images/testimonials_pascale_rivard.jpg"
-      designation: "Violin Teacher at Cégep Sainte-Foy"
-      link: "https://www.gabrielleprefontaine.com/pascale-rivard"
-      content: "Working with Etienne was a pleasure! He is attentive, very interested in the projects proposed, creative and realistic. From the beginning, he was very professional and he made sure to have the right equipment to produce what we wanted. During the shoot, he was discreet and knew how to be forgotten. For us, this was essential since our young musicians should not be disturbed during the musical performance. Etienne puts his heart and soul into his craft and he exceeded our expectations! He rigorously respected his deadlines which, for me, is the pledge to great professionalism. His creative editing and grading was able to reflect the essence of our project."
+  - name: "Simon Painchaud"
+    image: "assets/images/testimonials_simon_painchaud.jpg"
+    designation: "EduWise Founder | Tutoring services"
+    link: "https://www.eduwisetutor.com/"
+    content: "Last July, I requested the photography, videography and editing services of Etienne to produce a marketing campaign for my startup. The experience was most rewarding with him: Etienne took the time to guide us, advise us and concretely explained to us how we could turn our broad ideas into a concrete product of which we are proud. His approach, sprinkled with humour and professionalism, has convinced me to want to work with him again on future projects!"
+  - name: "Harmonia"
+    image: "/assets/images/testimonials_harmonia.jpg"
+    designation: "Funeral Event Services"
+    link: "https://harmonia.ca/"
+    content: "We have worked with Mr. Etienne Collin to create a photography bank that would be used to promote our services on social media. Having worked with him through various circumstances, we have noticed in him an extraordinary maturity. We appreciated his punctuality, his ability to easily communicate and his benevolence. He perfectly masters photography, a field he is passionate about. His general culture is a quality that will facilitate his adaptation to any environment. Mr. Collin has handled photography sessions with our employees with a master's hand. He is motivated and inspiring; we look forward to seeing him succeed throughout his career."
+  - name: "Pascale Rivard"
+    image: "/assets/images/testimonials_pascale_rivard.jpg"
+    designation: "Violin Teacher at Cégep Sainte-Foy"
+    link: "https://www.gabrielleprefontaine.com/pascale-rivard"
+    content: "Working with Etienne was a pleasure! He is attentive, very interested in the projects proposed, creative and realistic. From the beginning, he was very professional and he made sure to have the right equipment to produce what we wanted. During the shoot, he was discreet and knew how to be forgotten. For us, this was essential since our young musicians should not be disturbed during the musical performance. Etienne puts his heart and soul into his craft and he exceeded our expectations! He rigorously respected his deadlines which, for me, is the pledge to great professionalism. His creative editing and grading was able to reflect the essence of our project."
 
 #-------------------------------
 # Blog Section
 blog__settings:
-    blog__title: Recent Posts
-    blog__description:
+  blog__title: Recent Posts
+  blog__description:
 
 #-------------------------------
 # Gallery Footer Settings
@@ -111,27 +114,27 @@ blog__settings:
 #-------------------------------
 # Footer Navigation Settings
 footer_menu__settings:
-    menu__items:
-        - title: "Home"
-          url: "/"
-        - title: "CS Projects"
-          url: "/cs/"
-        - title: "Photography Projects"
-          url: "/photography/"
-        - title: "Other Projects"
-          url: "/projects/"
-        # - title: "Blog"
-        #   url: "/blog/"
-        - title: "About"
-          url: "/about/"
-        - title: "Contact me"
-          url: "/contact/"
+  menu__items:
+    - title: "Home"
+      url: "/"
+    - title: "CS Projects"
+      url: "/cs/"
+    - title: "Photography Projects"
+      url: "/photography/"
+    - title: "Other Projects"
+      url: "/projects/"
+    # - title: "Blog"
+    #   url: "/blog/"
+    - title: "About"
+      url: "/about/"
+    - title: "Contact me"
+      url: "/contact/"
 
 #-------------------------------
 # Contact Settings
 contact:
-    email: collin.etienne.contact@gmail.com # Add your email address or form_id if you use FormSpree version of the contact form in /_pages/contact.html
-    description: If you want to collaborate or have questions, don't hesitate to contact me. # Add a description of your form
+  email: collin.etienne.contact@gmail.com # Add your email address or form_id if you use FormSpree version of the contact form in /_pages/contact.html
+  description: If you want to collaborate or have questions, don't hesitate to contact me. # Add a description of your form
 
 #-------------------------------
 # Newsletter
@@ -139,7 +142,6 @@ mailchimp: # To enable the mailchimp form, use the value 'enable'. To disable th
 mailchimp__identifier: # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
 mailchimp__input__text: Your email address...
 mailchimp__button__text: Get updates
-
 # NOTE
 # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
