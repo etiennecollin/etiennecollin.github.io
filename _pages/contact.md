@@ -19,6 +19,7 @@ as possible!
 	>
 		Send me an email!
 	</button>
+    <button class="button button--small" onclick="location.href='https://www.linkedin.com/in/etiennecollin/';" type="button">Contact me on Linkedin!</button>
 </div>
 
 <!-- Version of the form to send complete email but formatting of email content broken -->
