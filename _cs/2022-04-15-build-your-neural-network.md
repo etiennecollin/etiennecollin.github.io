@@ -4,7 +4,7 @@ subtitle: BYNN
 description:
 license: GPL-3.0
 date: 2022-04-15
-image: "/assets//images/cs_bynn_large.jpg"
+image: "/assets/images/cs_bynn_large.jpg"
 ---
 
 ![cs_bynn_large]({{site.baseurl}}/assets/images/cs_bynn_large.jpg)
