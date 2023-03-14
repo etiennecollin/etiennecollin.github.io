@@ -16,6 +16,6 @@ The site allowed users to browse products and add items to their cart for purcha
 Overall, our project demonstrated our proficiency in front-end web development and user interface design. We are proud of the final product and the skills we gained throughout the development process.
 
 <div style="text-align:center">
-	<button class="button button--small" onclick="window.open('https://etiennecollin.com/ift1005-shop-online','_blank')" type="button">Visit the website</button>
+	<button class="button button--small" onclick="window.open('{{site.baseurl}}/ift1005-shop-online','_blank')" type="button">Visit the website</button>
 	<button class="button button--small" onclick="window.open('https://github.com/etiennecollin/ift1005-shop-online','_blank')" type="button">Visit the website's GitHub Repository</button>
 </div>
