@@ -9,6 +9,9 @@ You have any questions about me or my work? You want to collaborate and have a
 project in mind? Do not hesitate to contact me, I will get back to you as soon
 as possible!
 
+In the meantime, check me out on [GitHub](https://github.com/etiennecollin)
+and [LinkedIn](https://www.linkedin.com/in/etiennecollin/).
+
 <!-- Version of the form to send basic email -->
 <div style="text-align: center">
 	<br />
@@ -19,7 +22,6 @@ as possible!
 	>
 		Send me an email!
 	</button>
-    <button class="button button--small" onclick="location.href='https://www.linkedin.com/in/etiennecollin/';" type="button">Contact me on LinkedIn!</button>
 </div>
 
 <!-- Version of the form to send complete email but formatting of email content broken -->

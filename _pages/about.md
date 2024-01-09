@@ -5,10 +5,6 @@ permalink: /about/
 image:
 ---
 
-> TLDR: Hey! My name is Etienne. I'm a computer science student and Schulich Leader at Université de Montréal fascinated by artificial intelligence. I live a life diverse of interests, from computer science and technology to music and photography. I thrive on problem solving and learning new things about everything I encounter. I try to always stay curious and have a positive impact on my environment.
-
----
-
 Hey! I'm Etienne, an avid Computer Science student with an insatiable curiosity for the world that surrounds me. Excited to unearth the limitless potential of AI, I am currently on a path towards pursuing a Masters degree and possibly a PhD in this field. The elegant interplay of mathematics and statistics that underpin AI fascinate me, propelling my desire to unravel its inner workings, contribute to it meaningfully, and leverage it for positive change.
 
 In fact, I firmly believe that technology should be a force for good, pushing the boundaries of innovation. As such, I’m committed to making a meaningful difference in the realms I engage with, not only contributing to the advancement of AI but also to the betterment of society as a whole. I'm determined to ensure that AI’s benefits are accessible to all.
@@ -23,8 +19,11 @@ I'm excited about the path ahead; one that's marked by an unbounded curiosity an
 
 Contact me, why not collaborate!
 
-Checkout my [computer science projects]({{site.baseurl}}/cs), my [photography projects]({{site.baseurl}}/photography) or my
-[other projects]({{site.baseurl}}/projects).
+---
+
+> TLDR: Hey! My name is Etienne. I'm a computer science student and Schulich Leader at Université de Montréal fascinated by artificial intelligence. I live a life diverse of interests, from computer science and technology to music and photography. I thrive on problem solving and learning new things about everything I encounter. I try to always stay curious and have a positive impact on my environment.
+
+---
 
 <div style="text-align:center">
 	<button class="button button--small" onclick="location.href='{{site.baseurl}}/contact/';" type="button">Contact me!</button>
