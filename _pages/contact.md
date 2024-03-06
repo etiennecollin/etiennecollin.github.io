@@ -12,6 +12,8 @@ as possible!
 In the meantime, check me out on [GitHub](https://github.com/etiennecollin)
 and [LinkedIn](https://www.linkedin.com/in/etiennecollin/).
 
+Here is my [online resume](https://resume.etiennecollin.com).
+
 <!-- Version of the form to send basic email -->
 <div style="text-align: center">
 	<br />
