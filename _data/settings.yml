@@ -12,12 +12,12 @@ menu__settings:
   menu__items:
     - title: "Home"
       url: "/"
-    # - title: "Projects"
-    #   submenu:
-    #     - title: "CS"
-    #       url: "/cs/"
-    #     - title: "Photography"
-    #       url: "/photography/"
+    - title: "Projects"
+      submenu:
+        #     - title: "CS"
+        #       url: "/cs/"
+        - title: "Photography"
+          url: "/photography/"
     #     - title: "Other"
     #       url: "/projects/"
     # - title: "Blog"
