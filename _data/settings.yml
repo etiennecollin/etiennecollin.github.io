@@ -3,7 +3,7 @@
 # Site Settings
 title: Etienne Collin
 logo: # You can add own logo. For example '/images/logo.png'.
-description: This is the portfolio of Etienne Collin, Schulich Leader and Computer Science student.
+description: This is the portfolio of Etienne Collin, Computer Scientist and Schulich Leader.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 #-------------------------------
@@ -31,7 +31,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Etienne Collin
-  author__bio: I'm a computer science student and Schulich Leader at Université de Montréal. I adore learning; my interests are vast, but I am currently fascinated by artificial intelligence and, more specifically, by neural networks.
+  author__bio: I'm a computer scientist and Schulich Leader at Université de Montréal with a passion for learning. Right now, I’m deep into High Performance Computing (HPC), where I love tackling challenges like cache locality, memory safety, performance optimization, parallel computing, and scalable systems. There’s always something new to explore and optimize!
   author__avatar: "/assets/images/profile_picture_square.jpg"
 
 social:
@@ -48,8 +48,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Computer Science Student & Schulich Leader at Université de Montréal
-  hero__description: Checkout my work! I'm always looking for new projects and I love learning. Contact me if you want to collaborate!
+  hero__title: Computer Scientist & Schulich Leader at Université de Montréal
+  hero__description: Checkout my work and contact me if you want to collaborate!
   hero__image: "/assets/images/profile_picture_square.jpg"
 
 #-------------------------------
@@ -119,8 +119,8 @@ footer_menu__settings:
       url: "/"
     # - title: "CS Projects"
     #   url: "/cs/"
-    # - title: "Photography Projects"
-    #   url: "/photography/"
+    - title: "Photography Projects"
+      url: "/photography/"
     # - title: "Other Projects"
     #   url: "/projects/"
     # - title: "Blog"
