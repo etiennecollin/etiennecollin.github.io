@@ -5,7 +5,7 @@ permalink: /about/
 image:
 ---
 
-Hey! I'm Etienne, an avid Computer Science student with an insatiable curiosity for the world that surrounds me. I love solving problems and understanding how things fundamentally work. Building fast and efficient software is my passion, and over-engineering solutions is my signature approach :)
+Hey! I'm Etienne, an avid Computer Scientist with an insatiable curiosity for the world that surrounds me. I love solving problems and understanding how things fundamentally work. Building fast and efficient software is my passion, and over-engineering solutions is my signature approach :)
 
 I truly believe that technology should be a force for good, driving innovation forward. I’m focused on making a real impact wherever I can, not just advancing tech, but also ensuring its benefits are accessible to everyone and contribute to society as a whole.
 
